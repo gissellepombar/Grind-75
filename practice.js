@@ -25,10 +25,4 @@ const vegetable = (arr) => {
 vegetable(vegetableArray);
 
 
-let color = "";
-if (color === "red") { console.log ("Happy Lunar New Year!!"); } else { console.log("Colors are cool!"); }
-
-let color = "";
-color === 'red' ? console.log("Happy Lunar New Year!!") : console.log("Colors are cool!");
-
 
